@@ -1,16 +1,11 @@
 [source,json]
 ----
 {
-    "content_type": 13,
-    "created": "2017-06-28T14:59:55.100Z",
+    "content_type": 15,
+    "created": "2018-10-02T15:54:41.038Z",
     "data": {
         "comment": "",
         "comment_html": "",
-        "milestone": {
-            "id": 1,
-            "name": "Sprint 2017-5-4",
-            "slug": "sprint-2017-5-4"
-        },
         "project": {
             "description": "Project example 0 description",
             "id": 1,
@@ -19,7 +14,7 @@
         },
         "user": {
             "big_photo": null,
-            "date_joined": "2017-06-28T14:56:11.455Z",
+            "date_joined": "2018-10-02T09:06:56.732Z",
             "gravatar_id": "b579f05d7d36f4588b11887093e4ce44",
             "id": 6,
             "is_profile_visible": true,
@@ -28,33 +23,15 @@
             "username": "user2114747470430251528"
         },
         "userstory": {
-            "id": 1,
-            "ref": 1,
-            "subject": "Patching subject"
+            "id": 162,
+            "ref": 149,
+            "subject": "Customer personal data"
         },
-        "values_diff": {
-            "attachments": {
-                "changed": [
-                    {
-                        "changes": {
-                            "description": [
-                                "ea repellendus accusamus consequuntur doloremque sit deserunt earum",
-                                "patching description"
-                            ]
-                        },
-                        "filename": "sample_attachment_1.txt",
-                        "thumb_url": null,
-                        "url": "http://localhost:8000/media/attachments/d/7/b/d/6a01d3ee0c02dc148487de70ece86ff798aeb7dfd837860fbd0234487a15/sample_attachment_1.txt"
-                    }
-                ],
-                "deleted": [],
-                "new": []
-            }
-        }
+        "values_diff": {}
     },
-    "data_content_type": 45,
-    "event_type": "userstories.userstory.change",
-    "id": 7881,
+    "data_content_type": 48,
+    "event_type": "userstories.userstory.create",
+    "id": 8099,
     "namespace": "project:1",
     "object_id": 1,
     "project": 1

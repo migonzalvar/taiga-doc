@@ -3,7 +3,7 @@
 [
     {
         "color": "",
-        "created_at": "2017-06-28T14:56:12.188Z",
+        "created_at": "2018-10-02T09:06:58.149Z",
         "full_name": "Administrator",
         "gravatar_id": "64e1b8d34f425d19e1ee2ea7236d3028",
         "id": 2,
@@ -19,11 +19,11 @@
         "role": 4,
         "role_name": "Back",
         "user": 5,
-        "user_order": 1498661772188
+        "user_order": 1538471218149
     },
     {
         "color": "#FFCC00",
-        "created_at": "2017-06-28T14:56:12.396Z",
+        "created_at": "2018-10-02T09:06:58.396Z",
         "full_name": "Angela Perez",
         "gravatar_id": "c9ba9d485f9a9153ebf53758feb0980c",
         "id": 8,
@@ -39,11 +39,11 @@
         "role": 6,
         "role_name": "Stakeholder",
         "user": 11,
-        "user_order": 1498661772396
+        "user_order": 1538471218396
     },
     {
         "color": "#40826D",
-        "created_at": "2017-06-28T14:56:12.281Z",
+        "created_at": "2018-10-02T09:06:58.227Z",
         "full_name": "Bego\u00f1a Flores",
         "gravatar_id": "aed1e43be0f69f07ce6f34a907bc6328",
         "id": 4,
@@ -59,11 +59,31 @@
         "role": 1,
         "role_name": "UX",
         "user": 7,
-        "user_order": 1498661772281
+        "user_order": 1538471218227
+    },
+    {
+        "color": "#B6DA55",
+        "created_at": "2018-10-02T09:06:58.317Z",
+        "full_name": "Catalina Fernandez",
+        "gravatar_id": "9971a763f5dfc5cbd1ce1d2865b4fcfa",
+        "id": 6,
+        "invitation_extra_text": null,
+        "invited_by": null,
+        "is_admin": true,
+        "is_owner": false,
+        "is_user_active": true,
+        "photo": null,
+        "project": 1,
+        "project_name": "Project Example 0",
+        "project_slug": "project-0",
+        "role": 4,
+        "role_name": "Back",
+        "user": 9,
+        "user_order": 1538471218317
     },
     {
         "color": "#2099DB",
-        "created_at": "2017-06-28T14:56:12.373Z",
+        "created_at": "2018-10-02T09:06:58.358Z",
         "full_name": "Enrique Crespo",
         "gravatar_id": "f31e0063c7cd6da19b6467bc48d2b14b",
         "id": 7,
@@ -79,31 +99,11 @@
         "role": 5,
         "role_name": "Product Owner",
         "user": 10,
-        "user_order": 1498661772373
-    },
-    {
-        "color": "#71A6D2",
-        "created_at": "2017-06-28T14:56:12.310Z",
-        "full_name": "Francisco Gil",
-        "gravatar_id": "5c921c7bd676b7b4992501005d243c42",
-        "id": 5,
-        "invitation_extra_text": null,
-        "invited_by": null,
-        "is_admin": false,
-        "is_owner": false,
-        "is_user_active": true,
-        "photo": null,
-        "project": 1,
-        "project_name": "Project Example 0",
-        "project_slug": "project-0",
-        "role": 3,
-        "role_name": "Front",
-        "user": 8,
-        "user_order": 1498661772310
+        "user_order": 1538471218358
     },
     {
         "color": "#002e33",
-        "created_at": "2017-06-28T14:56:11.984Z",
+        "created_at": "2018-10-02T09:06:57.844Z",
         "full_name": "Miguel Molina",
         "gravatar_id": "dce0e8ed702cd85d5132e523121e619b",
         "id": 1,
@@ -119,11 +119,11 @@
         "role": 5,
         "role_name": "Product Owner",
         "user": 14,
-        "user_order": 1498661771984
+        "user_order": 1538471217844
     },
     {
         "color": "#B6DA55",
-        "created_at": "2017-06-28T14:56:12.446Z",
+        "created_at": "2018-10-02T09:06:58.501Z",
         "full_name": "Mohamed Ortega",
         "gravatar_id": "6d7e702bd6c6fc568fca7577f9ca8c55",
         "id": 10,
@@ -139,11 +139,11 @@
         "role": 5,
         "role_name": "Product Owner",
         "user": 13,
-        "user_order": 1498661772446
+        "user_order": 1538471218501
     },
     {
         "color": "#71A6D2",
-        "created_at": "2017-06-28T14:56:12.418Z",
+        "created_at": "2018-10-02T09:06:58.446Z",
         "full_name": "Vanesa Garcia",
         "gravatar_id": "74cb769a5e64d445b8550789e1553502",
         "id": 9,
@@ -159,11 +159,11 @@
         "role": 6,
         "role_name": "Stakeholder",
         "user": 12,
-        "user_order": 1498661772418
+        "user_order": 1538471218446
     },
     {
         "color": "#40826D",
-        "created_at": "2017-06-28T14:56:12.251Z",
+        "created_at": "2018-10-02T09:06:58.190Z",
         "full_name": "Vanesa Torres",
         "gravatar_id": "b579f05d7d36f4588b11887093e4ce44",
         "id": 3,
@@ -179,11 +179,11 @@
         "role": 2,
         "role_name": "Design",
         "user": 6,
-        "user_order": 1498661772251
+        "user_order": 1538471218190
     },
     {
         "color": "#FFFF00",
-        "created_at": "2017-06-28T14:56:12.470Z",
+        "created_at": "2018-10-02T09:06:58.538Z",
         "full_name": "Virginia Castro",
         "gravatar_id": "69b60d39a450e863609ae3546b12b360",
         "id": 11,
@@ -199,11 +199,39 @@
         "role": 6,
         "role_name": "Stakeholder",
         "user": 15,
-        "user_order": 1498661772470
+        "user_order": 1538471218538
     },
     {
         "color": null,
-        "created_at": "2017-06-28T14:59:44.616Z",
+        "created_at": "2018-10-02T15:54:30.815Z",
+        "full_name": null,
+        "gravatar_id": null,
+        "id": 99,
+        "invitation_extra_text": null,
+        "invited_by": {
+            "big_photo": null,
+            "full_name_display": "Vanesa Torres",
+            "gravatar_id": "b579f05d7d36f4588b11887093e4ce44",
+            "id": 6,
+            "is_active": true,
+            "photo": null,
+            "username": "user2114747470430251528"
+        },
+        "is_admin": false,
+        "is_owner": null,
+        "is_user_active": false,
+        "photo": null,
+        "project": 1,
+        "project_name": "Project Example 0",
+        "project_slug": "project-0",
+        "role": 4,
+        "role_name": "Back",
+        "user": null,
+        "user_order": 1538495670815
+    },
+    {
+        "color": null,
+        "created_at": "2018-10-02T13:28:03.851Z",
         "full_name": null,
         "gravatar_id": null,
         "id": 94,
@@ -227,11 +255,39 @@
         "role": 4,
         "role_name": "Back",
         "user": null,
-        "user_order": 1498661984616
+        "user_order": 1538486883851
     },
     {
         "color": null,
-        "created_at": "2017-06-28T14:56:12.538Z",
+        "created_at": "2018-10-02T15:38:05.646Z",
+        "full_name": null,
+        "gravatar_id": null,
+        "id": 97,
+        "invitation_extra_text": null,
+        "invited_by": {
+            "big_photo": null,
+            "full_name_display": "Vanesa Torres",
+            "gravatar_id": "b579f05d7d36f4588b11887093e4ce44",
+            "id": 6,
+            "is_active": true,
+            "photo": null,
+            "username": "user2114747470430251528"
+        },
+        "is_admin": false,
+        "is_owner": null,
+        "is_user_active": false,
+        "photo": null,
+        "project": 1,
+        "project_name": "Project Example 0",
+        "project_slug": "project-0",
+        "role": 4,
+        "role_name": "Back",
+        "user": null,
+        "user_order": 1538494685646
+    },
+    {
+        "color": null,
+        "created_at": "2018-10-02T09:06:58.630Z",
         "full_name": null,
         "gravatar_id": null,
         "id": 13,
@@ -247,23 +303,23 @@
         "role": 4,
         "role_name": "Back",
         "user": null,
-        "user_order": 1498661772538
+        "user_order": 1538471218630
     },
     {
         "color": null,
-        "created_at": "2017-06-28T14:59:43.306Z",
+        "created_at": "2018-10-02T09:11:02.325Z",
         "full_name": null,
         "gravatar_id": null,
         "id": 92,
         "invitation_extra_text": "",
         "invited_by": {
-            "big_photo": "http://localhost:8000/media/user/0/6/7/2/4ce46e37e5c423cf96544cb6fc22538accc1a817b5f653c2a931ab0762d7/logo.png.300x300_q85_crop.png",
+            "big_photo": "http://localhost:8000/media/user/1/7/8/1/9b68614b8f51f42a7aad425963a06aee4503b62f1b349e10ad96919b4eda/logo.png.300x300_q85_crop.png",
             "full_name_display": "BitBucket",
-            "gravatar_id": "06ef3afa5b1b52eb62f34788c0f8746a",
+            "gravatar_id": "5062898f1400d1c27205149d78abfb3e",
             "id": 1,
             "is_active": false,
-            "photo": "http://localhost:8000/media/user/0/6/7/2/4ce46e37e5c423cf96544cb6fc22538accc1a817b5f653c2a931ab0762d7/logo.png.80x80_q85_crop.png",
-            "username": "bitbucket-a87b82fe1a624b4facb364b229deb490"
+            "photo": "http://localhost:8000/media/user/1/7/8/1/9b68614b8f51f42a7aad425963a06aee4503b62f1b349e10ad96919b4eda/logo.png.80x80_q85_crop.png",
+            "username": "bitbucket-aa8ffb0ff9b249df928d53cde439c533"
         },
         "is_admin": false,
         "is_owner": null,
@@ -279,7 +335,7 @@
     },
     {
         "color": null,
-        "created_at": "2017-06-28T14:59:44.616Z",
+        "created_at": "2018-10-02T13:28:03.851Z",
         "full_name": null,
         "gravatar_id": null,
         "id": 93,
@@ -303,11 +359,67 @@
         "role": 3,
         "role_name": "Front",
         "user": null,
-        "user_order": 1498661984616
+        "user_order": 1538486883851
     },
     {
         "color": null,
-        "created_at": "2017-06-28T14:59:45.030Z",
+        "created_at": "2018-10-02T15:54:30.815Z",
+        "full_name": null,
+        "gravatar_id": null,
+        "id": 98,
+        "invitation_extra_text": null,
+        "invited_by": {
+            "big_photo": null,
+            "full_name_display": "Vanesa Torres",
+            "gravatar_id": "b579f05d7d36f4588b11887093e4ce44",
+            "id": 6,
+            "is_active": true,
+            "photo": null,
+            "username": "user2114747470430251528"
+        },
+        "is_admin": false,
+        "is_owner": null,
+        "is_user_active": false,
+        "photo": null,
+        "project": 1,
+        "project_name": "Project Example 0",
+        "project_slug": "project-0",
+        "role": 3,
+        "role_name": "Front",
+        "user": null,
+        "user_order": 1538495670815
+    },
+    {
+        "color": null,
+        "created_at": "2018-10-02T15:38:05.646Z",
+        "full_name": null,
+        "gravatar_id": null,
+        "id": 96,
+        "invitation_extra_text": null,
+        "invited_by": {
+            "big_photo": null,
+            "full_name_display": "Vanesa Torres",
+            "gravatar_id": "b579f05d7d36f4588b11887093e4ce44",
+            "id": 6,
+            "is_active": true,
+            "photo": null,
+            "username": "user2114747470430251528"
+        },
+        "is_admin": false,
+        "is_owner": null,
+        "is_user_active": false,
+        "photo": null,
+        "project": 1,
+        "project_name": "Project Example 0",
+        "project_slug": "project-0",
+        "role": 3,
+        "role_name": "Front",
+        "user": null,
+        "user_order": 1538494685646
+    },
+    {
+        "color": null,
+        "created_at": "2018-10-02T13:28:04.565Z",
         "full_name": null,
         "gravatar_id": null,
         "id": 95,
@@ -331,11 +443,11 @@
         "role": 3,
         "role_name": "Front",
         "user": null,
-        "user_order": 1498661985031
+        "user_order": 1538486884565
     },
     {
         "color": null,
-        "created_at": "2017-06-28T14:56:12.535Z",
+        "created_at": "2018-10-02T09:06:58.618Z",
         "full_name": null,
         "gravatar_id": null,
         "id": 12,
@@ -351,11 +463,11 @@
         "role": 1,
         "role_name": "UX",
         "user": null,
-        "user_order": 1498661772535
+        "user_order": 1538471218618
     },
     {
         "color": "",
-        "created_at": "2017-06-28T14:56:52.118Z",
+        "created_at": "2018-10-02T09:07:45.429Z",
         "full_name": "Administrator",
         "gravatar_id": "64e1b8d34f425d19e1ee2ea7236d3028",
         "id": 15,
@@ -371,11 +483,11 @@
         "role": 9,
         "role_name": "Front",
         "user": 5,
-        "user_order": 1498661812118
+        "user_order": 1538471265429
     },
     {
         "color": "#FFCC00",
-        "created_at": "2017-06-28T14:56:51.987Z",
+        "created_at": "2018-10-02T09:07:45.225Z",
         "full_name": "Angela Perez",
         "gravatar_id": "c9ba9d485f9a9153ebf53758feb0980c",
         "id": 14,
@@ -391,11 +503,11 @@
         "role": 11,
         "role_name": "Product Owner",
         "user": 11,
-        "user_order": 1498661811987
+        "user_order": 1538471265225
     },
     {
         "color": "#40826D",
-        "created_at": "2017-06-28T14:56:52.209Z",
+        "created_at": "2018-10-02T09:07:45.512Z",
         "full_name": "Bego\u00f1a Flores",
         "gravatar_id": "aed1e43be0f69f07ce6f34a907bc6328",
         "id": 17,
@@ -411,11 +523,31 @@
         "role": 9,
         "role_name": "Front",
         "user": 7,
-        "user_order": 1498661812209
+        "user_order": 1538471265512
+    },
+    {
+        "color": "#B6DA55",
+        "created_at": "2018-10-02T09:07:45.592Z",
+        "full_name": "Catalina Fernandez",
+        "gravatar_id": "9971a763f5dfc5cbd1ce1d2865b4fcfa",
+        "id": 19,
+        "invitation_extra_text": null,
+        "invited_by": null,
+        "is_admin": true,
+        "is_owner": false,
+        "is_user_active": true,
+        "photo": null,
+        "project": 2,
+        "project_name": "Project Example 1",
+        "project_slug": "project-1",
+        "role": 7,
+        "role_name": "UX",
+        "user": 9,
+        "user_order": 1538471265592
     },
     {
         "color": "#2099DB",
-        "created_at": "2017-06-28T14:56:52.285Z",
+        "created_at": "2018-10-02T09:07:45.632Z",
         "full_name": "Enrique Crespo",
         "gravatar_id": "f31e0063c7cd6da19b6467bc48d2b14b",
         "id": 20,
@@ -431,11 +563,11 @@
         "role": 7,
         "role_name": "UX",
         "user": 10,
-        "user_order": 1498661812285
+        "user_order": 1538471265632
     },
     {
         "color": "#71A6D2",
-        "created_at": "2017-06-28T14:56:52.236Z",
+        "created_at": "2018-10-02T09:07:45.549Z",
         "full_name": "Francisco Gil",
         "gravatar_id": "5c921c7bd676b7b4992501005d243c42",
         "id": 18,
@@ -451,31 +583,11 @@
         "role": 7,
         "role_name": "UX",
         "user": 8,
-        "user_order": 1498661812236
-    },
-    {
-        "color": "#002e33",
-        "created_at": "2017-06-28T14:56:52.385Z",
-        "full_name": "Miguel Molina",
-        "gravatar_id": "dce0e8ed702cd85d5132e523121e619b",
-        "id": 23,
-        "invitation_extra_text": null,
-        "invited_by": null,
-        "is_admin": true,
-        "is_owner": false,
-        "is_user_active": true,
-        "photo": null,
-        "project": 2,
-        "project_name": "Project Example 1",
-        "project_slug": "project-1",
-        "role": 8,
-        "role_name": "Design",
-        "user": 14,
-        "user_order": 1498661812385
+        "user_order": 1538471265549
     },
     {
         "color": "#B6DA55",
-        "created_at": "2017-06-28T14:56:52.352Z",
+        "created_at": "2018-10-02T09:07:45.720Z",
         "full_name": "Mohamed Ortega",
         "gravatar_id": "6d7e702bd6c6fc568fca7577f9ca8c55",
         "id": 22,
@@ -491,11 +603,11 @@
         "role": 10,
         "role_name": "Back",
         "user": 13,
-        "user_order": 1498661812352
+        "user_order": 1538471265720
     },
     {
         "color": "#71A6D2",
-        "created_at": "2017-06-28T14:56:52.319Z",
+        "created_at": "2018-10-02T09:07:45.675Z",
         "full_name": "Vanesa Garcia",
         "gravatar_id": "74cb769a5e64d445b8550789e1553502",
         "id": 21,
@@ -511,11 +623,11 @@
         "role": 9,
         "role_name": "Front",
         "user": 12,
-        "user_order": 1498661812319
+        "user_order": 1538471265675
     },
     {
         "color": "#40826D",
-        "created_at": "2017-06-28T14:56:52.147Z",
+        "created_at": "2018-10-02T09:07:45.475Z",
         "full_name": "Vanesa Torres",
         "gravatar_id": "b579f05d7d36f4588b11887093e4ce44",
         "id": 16,
@@ -531,11 +643,11 @@
         "role": 12,
         "role_name": "Stakeholder",
         "user": 6,
-        "user_order": 1498661812147
+        "user_order": 1538471265475
     },
     {
         "color": "#FFFF00",
-        "created_at": "2017-06-28T14:56:52.439Z",
+        "created_at": "2018-10-02T09:07:45.813Z",
         "full_name": "Virginia Castro",
         "gravatar_id": "69b60d39a450e863609ae3546b12b360",
         "id": 24,
@@ -551,87 +663,7 @@
         "role": 9,
         "role_name": "Front",
         "user": 15,
-        "user_order": 1498661812439
-    },
-    {
-        "color": null,
-        "created_at": "2017-06-28T14:56:52.520Z",
-        "full_name": null,
-        "gravatar_id": null,
-        "id": 26,
-        "invitation_extra_text": null,
-        "invited_by": null,
-        "is_admin": false,
-        "is_owner": null,
-        "is_user_active": false,
-        "photo": null,
-        "project": 2,
-        "project_name": "Project Example 1",
-        "project_slug": "project-1",
-        "role": 8,
-        "role_name": "Design",
-        "user": null,
-        "user_order": 1498661812520
-    },
-    {
-        "color": null,
-        "created_at": "2017-06-28T14:56:52.517Z",
-        "full_name": null,
-        "gravatar_id": null,
-        "id": 25,
-        "invitation_extra_text": null,
-        "invited_by": null,
-        "is_admin": false,
-        "is_owner": null,
-        "is_user_active": false,
-        "photo": null,
-        "project": 2,
-        "project_name": "Project Example 1",
-        "project_slug": "project-1",
-        "role": 7,
-        "role_name": "UX",
-        "user": null,
-        "user_order": 1498661812517
-    },
-    {
-        "color": "#FFCC00",
-        "created_at": "2017-06-28T14:57:28.492Z",
-        "full_name": "Angela Perez",
-        "gravatar_id": "c9ba9d485f9a9153ebf53758feb0980c",
-        "id": 33,
-        "invitation_extra_text": null,
-        "invited_by": null,
-        "is_admin": false,
-        "is_owner": false,
-        "is_user_active": true,
-        "photo": null,
-        "project": 3,
-        "project_name": "Project Example 2",
-        "project_slug": "project-2",
-        "role": 17,
-        "role_name": "Product Owner",
-        "user": 11,
-        "user_order": 1498661848492
-    },
-    {
-        "color": "#40826D",
-        "created_at": "2017-06-28T14:57:28.367Z",
-        "full_name": "Bego\u00f1a Flores",
-        "gravatar_id": "aed1e43be0f69f07ce6f34a907bc6328",
-        "id": 30,
-        "invitation_extra_text": null,
-        "invited_by": null,
-        "is_admin": true,
-        "is_owner": false,
-        "is_user_active": true,
-        "photo": null,
-        "project": 3,
-        "project_name": "Project Example 2",
-        "project_slug": "project-2",
-        "role": 16,
-        "role_name": "Back",
-        "user": 7,
-        "user_order": 1498661848367
+        "user_order": 1538471265813
     }
 ]
 ----

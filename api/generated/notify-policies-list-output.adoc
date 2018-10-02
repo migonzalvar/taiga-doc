@@ -3,51 +3,52 @@
 [
     {
         "id": 7,
+        "live_notify_level": 1,
         "notify_level": 2,
         "project": 1,
         "project_name": "Project Example 0"
     },
     {
         "id": 19,
+        "live_notify_level": 1,
         "notify_level": 1,
         "project": 2,
         "project_name": "Project Example 1"
     },
     {
         "id": 35,
+        "live_notify_level": 1,
         "notify_level": 1,
         "project": 3,
         "project_name": "Project Example 2"
     },
     {
         "id": 51,
+        "live_notify_level": 1,
         "notify_level": 1,
         "project": 4,
         "project_name": "Project Example 3"
     },
     {
         "id": 64,
+        "live_notify_level": 1,
         "notify_level": 1,
         "project": 5,
         "project_name": "Project Example 4"
     },
     {
         "id": 80,
+        "live_notify_level": 1,
         "notify_level": 1,
         "project": 6,
         "project_name": "Project Example 5"
     },
     {
         "id": 89,
+        "live_notify_level": 1,
         "notify_level": 1,
         "project": 7,
         "project_name": "Project Example 6"
-    },
-    {
-        "id": 112,
-        "notify_level": 1,
-        "project": 8,
-        "project_name": "Project Example"
     }
 ]
 ----

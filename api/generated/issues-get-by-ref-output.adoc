@@ -1,8 +1,42 @@
 [source,json]
 ----
 {
-    "assigned_to": 6,
-    "assigned_to_extra_info": {
+    "assigned_to": null,
+    "assigned_to_extra_info": null,
+    "attachments": [],
+    "blocked_note": "",
+    "blocked_note_html": "",
+    "comment": "",
+    "created_date": "2018-10-02T15:38:29.809Z",
+    "description": "",
+    "description_html": "",
+    "due_date": null,
+    "due_date_reason": "",
+    "due_date_status": "not_set",
+    "external_reference": null,
+    "finished_date": null,
+    "generated_user_stories": null,
+    "id": 89,
+    "is_blocked": false,
+    "is_closed": false,
+    "is_voter": false,
+    "is_watcher": false,
+    "milestone": null,
+    "modified_date": "2018-10-02T15:38:29.823Z",
+    "neighbors": {
+        "next": {
+            "id": 88,
+            "ref": 138,
+            "subject": "Customer personal data"
+        },
+        "previous": {
+            "id": 90,
+            "ref": 150,
+            "subject": "Issue 1"
+        }
+    },
+    "owner": 6,
+    "owner_extra_info": {
         "big_photo": null,
         "full_name_display": "Vanesa Torres",
         "gravatar_id": "b579f05d7d36f4588b11887093e4ce44",
@@ -11,45 +45,7 @@
         "photo": null,
         "username": "user2114747470430251528"
     },
-    "blocked_note": "",
-    "blocked_note_html": "",
-    "comment": "",
-    "created_date": "2017-06-28T14:56:43.303Z",
-    "description": "Cumque sequi eveniet expedita doloribus eligendi, neque officia soluta dolorem aliquam, nesciunt voluptatibus facilis deleniti tempora. In modi itaque tempora veniam similique, maxime dolore consequatur libero necessitatibus possimus ratione ab culpa tempore, porro expedita suscipit rem, quidem aliquid harum perferendis magni eligendi, voluptas quae atque dicta molestias magnam voluptatibus numquam deserunt.",
-    "description_html": "<p>Cumque sequi eveniet expedita doloribus eligendi, neque officia soluta dolorem aliquam, nesciunt voluptatibus facilis deleniti tempora. In modi itaque tempora veniam similique, maxime dolore consequatur libero necessitatibus possimus ratione ab culpa tempore, porro expedita suscipit rem, quidem aliquid harum perferendis magni eligendi, voluptas quae atque dicta molestias magnam voluptatibus numquam deserunt.</p>",
-    "external_reference": null,
-    "finished_date": null,
-    "generated_user_stories": null,
-    "id": 13,
-    "is_blocked": false,
-    "is_closed": false,
-    "is_voter": false,
-    "is_watcher": false,
-    "milestone": null,
-    "modified_date": "2017-06-28T14:56:43.394Z",
-    "neighbors": {
-        "next": {
-            "id": 12,
-            "ref": 104,
-            "subject": "Fixing templates for Django 1.6."
-        },
-        "previous": {
-            "id": 105,
-            "ref": 120,
-            "subject": "Issue 1"
-        }
-    },
-    "owner": 15,
-    "owner_extra_info": {
-        "big_photo": null,
-        "full_name_display": "Virginia Castro",
-        "gravatar_id": "69b60d39a450e863609ae3546b12b360",
-        "id": 15,
-        "is_active": true,
-        "photo": null,
-        "username": "user9"
-    },
-    "priority": 3,
+    "priority": 2,
     "project": 1,
     "project_extra_info": {
         "id": 1,
@@ -57,49 +53,20 @@
         "name": "Project Example 0",
         "slug": "project-0"
     },
-    "ref": 105,
-    "severity": 2,
-    "status": 7,
+    "ref": 139,
+    "severity": 3,
+    "status": 1,
     "status_extra_info": {
-        "color": "#666666",
+        "color": "#8C2318",
         "is_closed": false,
-        "name": "Postponed"
+        "name": "Patch status name"
     },
-    "subject": "Fixing templates for Django 1.6.",
-    "tags": [
-        [
-            "quibusdam",
-            "#c49ac2"
-        ],
-        [
-            "voluptatibus",
-            "#681ad4"
-        ],
-        [
-            "tempora",
-            null
-        ],
-        [
-            "at",
-            null
-        ],
-        [
-            "dignissimos",
-            null
-        ],
-        [
-            "ipsa",
-            null
-        ]
-    ],
-    "total_voters": 5,
-    "total_watchers": 3,
-    "type": 2,
+    "subject": "Customer personal data",
+    "tags": [],
+    "total_voters": 0,
+    "total_watchers": 0,
+    "type": 1,
     "version": 1,
-    "watchers": [
-        13,
-        14,
-        15
-    ]
+    "watchers": []
 }
 ----

@@ -3,14 +3,30 @@
 {
     "assigned_to": null,
     "assigned_to_extra_info": null,
+    "assigned_users": [],
     "attachments": [],
     "backlog_order": 2,
     "blocked_note": "",
     "client_requirement": false,
     "comment": "",
-    "created_date": "2017-06-28T14:59:54.291Z",
+    "created_date": "2018-10-02T13:28:16.541Z",
+    "due_date": null,
+    "due_date_reason": "",
+    "due_date_status": "not_set",
     "epic_order": null,
-    "epics": null,
+    "epics": [
+        {
+            "color": "#8ae234",
+            "id": 14,
+            "project": {
+                "id": 3,
+                "name": "Project Example 2",
+                "slug": "project-2"
+            },
+            "ref": 39,
+            "subject": "Patching subject"
+        }
+    ],
     "external_reference": null,
     "finish_date": null,
     "generated_from_issue": null,
@@ -19,11 +35,11 @@
     "is_closed": false,
     "is_voter": false,
     "is_watcher": false,
-    "kanban_order": 37,
+    "kanban_order": 40,
     "milestone": null,
     "milestone_name": null,
     "milestone_slug": null,
-    "modified_date": "2017-06-28T14:59:54.300Z",
+    "modified_date": "2018-10-02T13:28:16.560Z",
     "origin_issue": null,
     "owner": 6,
     "owner_extra_info": {
@@ -59,11 +75,11 @@
     "subject": "Customer personal data",
     "tags": [
         [
-            "service catalog",
+            "customer",
             null
         ],
         [
-            "customer",
+            "service catalog",
             null
         ]
     ],

@@ -15,27 +15,27 @@
     "blocked_note": "",
     "blocked_note_html": "",
     "client_requirement": false,
-    "color": "#fcaf3e",
+    "color": "#8ae234",
     "comment": "",
-    "created_date": "2017-06-28T14:57:43.126Z",
-    "description": "Incidunt ad tempore fugit itaque alias hic, soluta consectetur impedit vitae excepturi quod, doloremque culpa nesciunt labore sapiente molestiae reiciendis praesentium placeat totam animi? Molestias autem debitis repellat? Consectetur vitae assumenda pariatur nesciunt rerum? Doloremque quisquam repellat laudantium consequatur veniam beatae laboriosam quos, nobis illum vitae repellat officia fugit dolorum tenetur sunt molestias assumenda, expedita sunt explicabo officiis possimus doloremque nam ullam nisi eum, quisquam incidunt sint facilis aliquid asperiores earum voluptatum itaque, obcaecati cum rem?",
-    "description_html": "<p>Incidunt ad tempore fugit itaque alias hic, soluta consectetur impedit vitae excepturi quod, doloremque culpa nesciunt labore sapiente molestiae reiciendis praesentium placeat totam animi? Molestias autem debitis repellat? Consectetur vitae assumenda pariatur nesciunt rerum? Doloremque quisquam repellat laudantium consequatur veniam beatae laboriosam quos, nobis illum vitae repellat officia fugit dolorum tenetur sunt molestias assumenda, expedita sunt explicabo officiis possimus doloremque nam ullam nisi eum, quisquam incidunt sint facilis aliquid asperiores earum voluptatum itaque, obcaecati cum rem?</p>",
-    "epics_order": 1498661863126,
-    "id": 17,
+    "created_date": "2018-10-02T09:08:42.975Z",
+    "description": "Inventore numquam sint vitae quia deserunt quibusdam adipisci voluptatem enim sequi, omnis libero magnam voluptatibus vero, porro blanditiis dignissimos hic ratione rerum odit. Tenetur voluptatum eos non dolores rem excepturi veniam, impedit quidem tempora eius cupiditate dolores qui rem fugiat. Mollitia molestiae velit debitis dicta animi repellendus ratione eos illum eveniet, non voluptatibus magnam libero quidem fugit officiis, veritatis quae dicta harum id vitae cupiditate corrupti ducimus quasi, molestiae in quia voluptatum beatae rerum atque recusandae magni, vel dolorum velit consequuntur quidem nam fugiat. Nisi dignissimos veniam fugiat quod impedit rem, vero accusantium a quas beatae corporis ex asperiores ratione accusamus, consequuntur necessitatibus molestiae.",
+    "description_html": "<p>Inventore numquam sint vitae quia deserunt quibusdam adipisci voluptatem enim sequi, omnis libero magnam voluptatibus vero, porro blanditiis dignissimos hic ratione rerum odit. Tenetur voluptatum eos non dolores rem excepturi veniam, impedit quidem tempora eius cupiditate dolores qui rem fugiat. Mollitia molestiae velit debitis dicta animi repellendus ratione eos illum eveniet, non voluptatibus magnam libero quidem fugit officiis, veritatis quae dicta harum id vitae cupiditate corrupti ducimus quasi, molestiae in quia voluptatum beatae rerum atque recusandae magni, vel dolorum velit consequuntur quidem nam fugiat. Nisi dignissimos veniam fugiat quod impedit rem, vero accusantium a quas beatae corporis ex asperiores ratione accusamus, consequuntur necessitatibus molestiae.</p>",
+    "epics_order": 1538471322975,
+    "id": 14,
     "is_blocked": false,
     "is_closed": false,
-    "is_voter": true,
+    "is_voter": false,
     "is_watcher": false,
-    "modified_date": "2017-06-28T14:59:46.657Z",
-    "owner": 12,
+    "modified_date": "2018-10-02T15:54:32.847Z",
+    "owner": 13,
     "owner_extra_info": {
         "big_photo": null,
-        "full_name_display": "Vanesa Garcia",
-        "gravatar_id": "74cb769a5e64d445b8550789e1553502",
-        "id": 12,
+        "full_name_display": "Mohamed Ortega",
+        "gravatar_id": "6d7e702bd6c6fc568fca7577f9ca8c55",
+        "id": 13,
         "is_active": true,
         "photo": null,
-        "username": "user6"
+        "username": "user7"
     },
     "project": 3,
     "project_extra_info": {
@@ -44,34 +44,32 @@
         "name": "Project Example 2",
         "slug": "project-2"
     },
-    "ref": 42,
-    "status": 11,
+    "ref": 39,
+    "status": 13,
     "status_extra_info": {
-        "color": "#999999",
+        "color": "#ff9900",
         "is_closed": false,
-        "name": "New"
+        "name": "In progress"
     },
     "subject": "Patching subject",
     "tags": [
         [
-            "doloremque",
-            null
+            "officia",
+            "#c4f027"
         ]
     ],
     "team_requirement": false,
-    "total_voters": 7,
-    "total_watchers": 5,
+    "total_voters": 8,
+    "total_watchers": 3,
     "user_stories_counts": {
-        "progress": 0,
-        "total": 5
+        "progress": 1,
+        "total": 11
     },
-    "version": 2,
+    "version": 4,
     "watchers": [
         1,
-        2,
-        4,
         11,
-        15
+        14
     ]
 }
 ----

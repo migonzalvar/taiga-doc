@@ -3,7 +3,7 @@
 {
     "assigned_to": [
         {
-            "count": 10,
+            "count": 20,
             "full_name": "",
             "id": null
         },
@@ -24,13 +24,13 @@
         },
         {
             "count": 3,
-            "full_name": "Enrique Crespo",
-            "id": 10
+            "full_name": "Catalina Fernandez",
+            "id": 9
         },
         {
             "count": 3,
-            "full_name": "Francisco Gil",
-            "id": 8
+            "full_name": "Enrique Crespo",
+            "id": 10
         },
         {
             "count": 2,
@@ -56,16 +56,68 @@
             "count": 4,
             "full_name": "Virginia Castro",
             "id": 15
+        }
+    ],
+    "assigned_users": [
+        {
+            "count": 20,
+            "full_name": "",
+            "id": null
         },
         {
-            "count": 0,
-            "full_name": "test",
-            "id": 16
+            "count": 2,
+            "full_name": "Administrator",
+            "id": 5
+        },
+        {
+            "count": 4,
+            "full_name": "Angela Perez",
+            "id": 11
+        },
+        {
+            "count": 4,
+            "full_name": "Bego\u00f1a Flores",
+            "id": 7
+        },
+        {
+            "count": 3,
+            "full_name": "Catalina Fernandez",
+            "id": 9
+        },
+        {
+            "count": 3,
+            "full_name": "Enrique Crespo",
+            "id": 10
+        },
+        {
+            "count": 2,
+            "full_name": "Miguel Molina",
+            "id": 14
+        },
+        {
+            "count": 2,
+            "full_name": "Mohamed Ortega",
+            "id": 13
+        },
+        {
+            "count": 3,
+            "full_name": "Vanesa Garcia",
+            "id": 12
+        },
+        {
+            "count": 2,
+            "full_name": "Vanesa Torres",
+            "id": 6
+        },
+        {
+            "count": 4,
+            "full_name": "Virginia Castro",
+            "id": 15
         }
     ],
     "epics": [
         {
-            "count": 34,
+            "count": 43,
             "id": null,
             "order": 0,
             "ref": null,
@@ -79,59 +131,129 @@
             "subject": "New epic"
         },
         {
+            "count": 0,
+            "id": 37,
+            "order": 2,
+            "ref": 125,
+            "subject": "New epic"
+        },
+        {
+            "count": 0,
+            "id": 42,
+            "order": 2,
+            "ref": 140,
+            "subject": "New epic"
+        },
+        {
             "count": 3,
             "id": 1,
-            "order": 1498661810437,
+            "order": 1538471263436,
             "ref": 106,
             "subject": "Added file copying and processing of images (resizing)"
         },
         {
             "count": 0,
             "id": 2,
-            "order": 1498661810708,
+            "order": 1538471263777,
             "ref": 107,
             "subject": "Add setting to allow regular users to create folders at the root level."
         },
         {
             "count": 0,
             "id": 3,
-            "order": 1498661811010,
+            "order": 1538471264124,
             "ref": 108,
             "subject": "Add setting to allow regular users to create folders at the root level."
         },
         {
             "count": 0,
             "id": 4,
-            "order": 1498661811384,
+            "order": 1538471264508,
             "ref": 109,
             "subject": "Feature/improved image admin"
         },
         {
             "count": 0,
             "id": 33,
-            "order": 1498661986298,
+            "order": 1538486886089,
             "ref": 111,
             "subject": "New epic"
         },
         {
             "count": 0,
             "id": 34,
-            "order": 1498661987299,
+            "order": 1538486887335,
             "ref": 112,
             "subject": "EPIC 1"
         },
         {
             "count": 0,
             "id": 35,
-            "order": 1498661987299,
+            "order": 1538486887335,
             "ref": 113,
             "subject": "EPIC 2"
         },
         {
             "count": 0,
             "id": 36,
-            "order": 1498661987299,
+            "order": 1538486887336,
             "ref": 114,
+            "subject": "EPIC 3"
+        },
+        {
+            "count": 0,
+            "id": 38,
+            "order": 1538494687294,
+            "ref": 126,
+            "subject": "New epic"
+        },
+        {
+            "count": 0,
+            "id": 39,
+            "order": 1538494688322,
+            "ref": 127,
+            "subject": "EPIC 1"
+        },
+        {
+            "count": 0,
+            "id": 40,
+            "order": 1538494688322,
+            "ref": 128,
+            "subject": "EPIC 2"
+        },
+        {
+            "count": 0,
+            "id": 41,
+            "order": 1538494688322,
+            "ref": 129,
+            "subject": "EPIC 3"
+        },
+        {
+            "count": 0,
+            "id": 43,
+            "order": 1538495672421,
+            "ref": 141,
+            "subject": "New epic"
+        },
+        {
+            "count": 0,
+            "id": 44,
+            "order": 1538495673006,
+            "ref": 142,
+            "subject": "EPIC 1"
+        },
+        {
+            "count": 0,
+            "id": 45,
+            "order": 1538495673006,
+            "ref": 143,
+            "subject": "EPIC 2"
+        },
+        {
+            "count": 0,
+            "id": 46,
+            "order": 1538495673006,
+            "ref": 144,
             "subject": "EPIC 3"
         }
     ],
@@ -153,13 +275,13 @@
         },
         {
             "count": 6,
-            "full_name": "Enrique Crespo",
-            "id": 10
+            "full_name": "Catalina Fernandez",
+            "id": 9
         },
         {
             "count": 4,
-            "full_name": "Francisco Gil",
-            "id": 8
+            "full_name": "Enrique Crespo",
+            "id": 10
         },
         {
             "count": 1,
@@ -177,7 +299,7 @@
             "id": 12
         },
         {
-            "count": 6,
+            "count": 16,
             "full_name": "Vanesa Torres",
             "id": 6
         },
@@ -187,17 +309,61 @@
             "id": 15
         }
     ],
+    "roles": [
+        {
+            "color": null,
+            "count": 4,
+            "id": 1,
+            "name": "UX",
+            "order": 10
+        },
+        {
+            "color": null,
+            "count": 2,
+            "id": 2,
+            "name": "Design",
+            "order": 20
+        },
+        {
+            "color": null,
+            "count": 0,
+            "id": 3,
+            "name": "Front",
+            "order": 30
+        },
+        {
+            "color": null,
+            "count": 5,
+            "id": 4,
+            "name": "Back",
+            "order": 40
+        },
+        {
+            "color": null,
+            "count": 7,
+            "id": 5,
+            "name": "Product Owner",
+            "order": 50
+        },
+        {
+            "color": null,
+            "count": 11,
+            "id": 6,
+            "name": "Stakeholder",
+            "order": 60
+        }
+    ],
     "statuses": [
         {
             "color": "#999999",
-            "count": 15,
+            "count": 23,
             "id": 1,
             "name": "New",
             "order": 1
         },
         {
             "color": "#ff8a84",
-            "count": 9,
+            "count": 11,
             "id": 2,
             "name": "Ready",
             "order": 2
@@ -298,19 +464,9 @@
             "name": "asperiores"
         },
         {
-            "color": null,
-            "count": 0,
-            "name": "aspernatur"
-        },
-        {
             "color": "#52b91a",
             "count": 1,
             "name": "assumenda"
-        },
-        {
-            "color": null,
-            "count": 0,
-            "name": "at"
         },
         {
             "color": null,
@@ -389,18 +545,13 @@
         },
         {
             "color": null,
-            "count": 1,
+            "count": 3,
             "name": "customer"
         },
         {
             "color": null,
             "count": 0,
             "name": "debitis"
-        },
-        {
-            "color": null,
-            "count": 1,
-            "name": "delectus"
         },
         {
             "color": "#6188db",
@@ -486,11 +637,6 @@
             "color": "#5d8273",
             "count": 0,
             "name": "eligendi"
-        },
-        {
-            "color": "#150d4a",
-            "count": 0,
-            "name": "enim"
         },
         {
             "color": null,
@@ -758,11 +904,6 @@
             "name": "nisi"
         },
         {
-            "color": null,
-            "count": 0,
-            "name": "nobis"
-        },
-        {
             "color": "#0cf81b",
             "count": 0,
             "name": "nostrum"
@@ -804,7 +945,7 @@
         },
         {
             "color": "#7617d3",
-            "count": 0,
+            "count": 1,
             "name": "optio"
         },
         {
@@ -974,7 +1115,7 @@
         },
         {
             "color": null,
-            "count": 1,
+            "count": 3,
             "name": "service catalog"
         },
         {
@@ -986,11 +1127,6 @@
             "color": "#3b2404",
             "count": 0,
             "name": "sint"
-        },
-        {
-            "color": "#abdcde",
-            "count": 0,
-            "name": "sit"
         },
         {
             "color": null,

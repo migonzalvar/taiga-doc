@@ -4,7 +4,7 @@
     "color": "#666666",
     "id": 1,
     "name": "Patch name",
-    "order": 1,
+    "order": 10,
     "project": 1
 }
 ----

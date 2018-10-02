@@ -5,17 +5,137 @@
         "assigned_to": null,
         "assigned_to_extra_info": null,
         "attachments": [],
+        "blocked_note": "blocking reason",
+        "client_requirement": false,
+        "color": "#ABCABC",
+        "created_date": "2018-10-02T13:28:05.767Z",
+        "epics_order": 2,
+        "id": 32,
+        "is_blocked": true,
+        "is_closed": false,
+        "is_voter": false,
+        "is_watcher": false,
+        "modified_date": "2018-10-02T13:28:05.777Z",
+        "owner": 6,
+        "owner_extra_info": {
+            "big_photo": null,
+            "full_name_display": "Vanesa Torres",
+            "gravatar_id": "b579f05d7d36f4588b11887093e4ce44",
+            "id": 6,
+            "is_active": true,
+            "photo": null,
+            "username": "user2114747470430251528"
+        },
+        "project": 1,
+        "project_extra_info": {
+            "id": 1,
+            "logo_small_url": null,
+            "name": "Project Example 0",
+            "slug": "project-0"
+        },
+        "ref": 110,
+        "status": 2,
+        "status_extra_info": {
+            "color": "#ff8a84",
+            "is_closed": false,
+            "name": "Ready"
+        },
+        "subject": "New epic",
+        "tags": [
+            [
+                "customer",
+                null
+            ],
+            [
+                "service catalog",
+                null
+            ]
+        ],
+        "team_requirement": false,
+        "total_voters": 0,
+        "total_watchers": 0,
+        "user_stories_counts": {
+            "progress": null,
+            "total": 0
+        },
+        "version": 1,
+        "watchers": []
+    },
+    {
+        "assigned_to": null,
+        "assigned_to_extra_info": null,
+        "attachments": [],
+        "blocked_note": "blocking reason",
+        "client_requirement": false,
+        "color": "#ABCABC",
+        "created_date": "2018-10-02T15:38:07.095Z",
+        "epics_order": 2,
+        "id": 37,
+        "is_blocked": true,
+        "is_closed": false,
+        "is_voter": false,
+        "is_watcher": false,
+        "modified_date": "2018-10-02T15:38:07.108Z",
+        "owner": 6,
+        "owner_extra_info": {
+            "big_photo": null,
+            "full_name_display": "Vanesa Torres",
+            "gravatar_id": "b579f05d7d36f4588b11887093e4ce44",
+            "id": 6,
+            "is_active": true,
+            "photo": null,
+            "username": "user2114747470430251528"
+        },
+        "project": 1,
+        "project_extra_info": {
+            "id": 1,
+            "logo_small_url": null,
+            "name": "Project Example 0",
+            "slug": "project-0"
+        },
+        "ref": 125,
+        "status": 2,
+        "status_extra_info": {
+            "color": "#ff8a84",
+            "is_closed": false,
+            "name": "Ready"
+        },
+        "subject": "New epic",
+        "tags": [
+            [
+                "customer",
+                null
+            ],
+            [
+                "service catalog",
+                null
+            ]
+        ],
+        "team_requirement": false,
+        "total_voters": 0,
+        "total_watchers": 0,
+        "user_stories_counts": {
+            "progress": null,
+            "total": 0
+        },
+        "version": 1,
+        "watchers": []
+    },
+    {
+        "assigned_to": null,
+        "assigned_to_extra_info": null,
+        "attachments": [],
         "blocked_note": "",
         "client_requirement": false,
         "color": "#a40000",
-        "created_date": "2017-06-28T14:56:50.437Z",
-        "epics_order": 1498661810437,
+        "created_date": "2018-10-02T09:07:43.436Z",
+        "epics_order": 1538471263436,
         "id": 1,
         "is_blocked": false,
         "is_closed": false,
         "is_voter": true,
         "is_watcher": false,
-        "modified_date": "2017-06-28T14:56:50.649Z",
+        "modified_date": "2018-10-02T09:07:43.699Z",
         "owner": 12,
         "owner_extra_info": {
             "big_photo": null,
@@ -55,7 +175,7 @@
         "total_voters": 6,
         "total_watchers": 1,
         "user_stories_counts": {
-            "progress": 0.4,
+            "progress": 1.2,
             "total": 3
         },
         "version": 1,
@@ -78,14 +198,14 @@
         "blocked_note": "",
         "client_requirement": false,
         "color": "#204a87",
-        "created_date": "2017-06-28T14:56:50.708Z",
-        "epics_order": 1498661810708,
+        "created_date": "2018-10-02T09:07:43.777Z",
+        "epics_order": 1538471263777,
         "id": 2,
         "is_blocked": false,
         "is_closed": false,
         "is_voter": true,
         "is_watcher": false,
-        "modified_date": "2017-06-28T14:56:50.945Z",
+        "modified_date": "2018-10-02T09:07:44.050Z",
         "owner": 13,
         "owner_extra_info": {
             "big_photo": null,
@@ -108,7 +228,7 @@
         "status_extra_info": {
             "color": "#999999",
             "is_closed": false,
-            "name": "New"
+            "name": "Patch status name"
         },
         "subject": "Add setting to allow regular users to create folders at the root level.",
         "tags": [
@@ -140,28 +260,28 @@
         ]
     },
     {
-        "assigned_to": 8,
+        "assigned_to": 10,
         "assigned_to_extra_info": {
             "big_photo": null,
-            "full_name_display": "Francisco Gil",
-            "gravatar_id": "5c921c7bd676b7b4992501005d243c42",
-            "id": 8,
+            "full_name_display": "Enrique Crespo",
+            "gravatar_id": "f31e0063c7cd6da19b6467bc48d2b14b",
+            "id": 10,
             "is_active": true,
             "photo": null,
-            "username": "user2"
+            "username": "user4"
         },
         "attachments": [],
         "blocked_note": "",
         "client_requirement": false,
         "color": "#8ae234",
-        "created_date": "2017-06-28T14:56:51.010Z",
-        "epics_order": 1498661811010,
+        "created_date": "2018-10-02T09:07:44.124Z",
+        "epics_order": 1538471264124,
         "id": 3,
         "is_blocked": false,
         "is_closed": false,
         "is_voter": false,
         "is_watcher": false,
-        "modified_date": "2017-06-28T14:56:51.315Z",
+        "modified_date": "2018-10-02T09:07:44.428Z",
         "owner": 12,
         "owner_extra_info": {
             "big_photo": null,
@@ -193,8 +313,8 @@
                 null
             ],
             [
-                "sit",
-                "#abdcde"
+                "optio",
+                "#7617d3"
             ]
         ],
         "team_requirement": false,
@@ -222,14 +342,14 @@
         "blocked_note": "",
         "client_requirement": false,
         "color": "#4e9a06",
-        "created_date": "2017-06-28T14:56:51.384Z",
-        "epics_order": 1498661811384,
+        "created_date": "2018-10-02T09:07:44.508Z",
+        "epics_order": 1538471264508,
         "id": 4,
         "is_blocked": false,
         "is_closed": false,
         "is_voter": false,
         "is_watcher": false,
-        "modified_date": "2017-06-28T14:56:51.668Z",
+        "modified_date": "2018-10-02T09:07:44.875Z",
         "owner": 11,
         "owner_extra_info": {
             "big_photo": null,
@@ -285,6 +405,414 @@
             12,
             14
         ]
+    },
+    {
+        "assigned_to": null,
+        "assigned_to_extra_info": null,
+        "attachments": [],
+        "blocked_note": "",
+        "client_requirement": false,
+        "color": "#ad7fa8",
+        "created_date": "2018-10-02T13:28:06.103Z",
+        "epics_order": 1538486886089,
+        "id": 33,
+        "is_blocked": false,
+        "is_closed": false,
+        "is_voter": false,
+        "is_watcher": false,
+        "modified_date": "2018-10-02T13:28:06.112Z",
+        "owner": 6,
+        "owner_extra_info": {
+            "big_photo": null,
+            "full_name_display": "Vanesa Torres",
+            "gravatar_id": "b579f05d7d36f4588b11887093e4ce44",
+            "id": 6,
+            "is_active": true,
+            "photo": null,
+            "username": "user2114747470430251528"
+        },
+        "project": 1,
+        "project_extra_info": {
+            "id": 1,
+            "logo_small_url": null,
+            "name": "Project Example 0",
+            "slug": "project-0"
+        },
+        "ref": 111,
+        "status": 1,
+        "status_extra_info": {
+            "color": "#999999",
+            "is_closed": false,
+            "name": "Patch status name"
+        },
+        "subject": "New epic",
+        "tags": [],
+        "team_requirement": false,
+        "total_voters": 0,
+        "total_watchers": 0,
+        "user_stories_counts": {
+            "progress": null,
+            "total": 0
+        },
+        "version": 1,
+        "watchers": []
+    },
+    {
+        "assigned_to": null,
+        "assigned_to_extra_info": null,
+        "attachments": [],
+        "blocked_note": "",
+        "client_requirement": false,
+        "color": "#edd400",
+        "created_date": "2018-10-02T13:28:07.335Z",
+        "epics_order": 1538486887335,
+        "id": 34,
+        "is_blocked": false,
+        "is_closed": false,
+        "is_voter": false,
+        "is_watcher": false,
+        "modified_date": "2018-10-02T13:28:07.336Z",
+        "owner": 6,
+        "owner_extra_info": {
+            "big_photo": null,
+            "full_name_display": "Vanesa Torres",
+            "gravatar_id": "b579f05d7d36f4588b11887093e4ce44",
+            "id": 6,
+            "is_active": true,
+            "photo": null,
+            "username": "user2114747470430251528"
+        },
+        "project": 1,
+        "project_extra_info": {
+            "id": 1,
+            "logo_small_url": null,
+            "name": "Project Example 0",
+            "slug": "project-0"
+        },
+        "ref": 112,
+        "status": 1,
+        "status_extra_info": {
+            "color": "#999999",
+            "is_closed": false,
+            "name": "Patch status name"
+        },
+        "subject": "EPIC 1",
+        "tags": [],
+        "team_requirement": false,
+        "total_voters": 0,
+        "total_watchers": 0,
+        "user_stories_counts": {
+            "progress": null,
+            "total": 0
+        },
+        "version": 1,
+        "watchers": []
+    },
+    {
+        "assigned_to": null,
+        "assigned_to_extra_info": null,
+        "attachments": [],
+        "blocked_note": "",
+        "client_requirement": false,
+        "color": "#ef2929",
+        "created_date": "2018-10-02T13:28:07.336Z",
+        "epics_order": 1538486887335,
+        "id": 35,
+        "is_blocked": false,
+        "is_closed": false,
+        "is_voter": false,
+        "is_watcher": false,
+        "modified_date": "2018-10-02T13:28:07.465Z",
+        "owner": 6,
+        "owner_extra_info": {
+            "big_photo": null,
+            "full_name_display": "Vanesa Torres",
+            "gravatar_id": "b579f05d7d36f4588b11887093e4ce44",
+            "id": 6,
+            "is_active": true,
+            "photo": null,
+            "username": "user2114747470430251528"
+        },
+        "project": 1,
+        "project_extra_info": {
+            "id": 1,
+            "logo_small_url": null,
+            "name": "Project Example 0",
+            "slug": "project-0"
+        },
+        "ref": 113,
+        "status": 1,
+        "status_extra_info": {
+            "color": "#999999",
+            "is_closed": false,
+            "name": "Patch status name"
+        },
+        "subject": "EPIC 2",
+        "tags": [],
+        "team_requirement": false,
+        "total_voters": 0,
+        "total_watchers": 0,
+        "user_stories_counts": {
+            "progress": null,
+            "total": 0
+        },
+        "version": 1,
+        "watchers": []
+    },
+    {
+        "assigned_to": null,
+        "assigned_to_extra_info": null,
+        "attachments": [],
+        "blocked_note": "",
+        "client_requirement": false,
+        "color": "#c4a000",
+        "created_date": "2018-10-02T13:28:07.336Z",
+        "epics_order": 1538486887336,
+        "id": 36,
+        "is_blocked": false,
+        "is_closed": false,
+        "is_voter": false,
+        "is_watcher": false,
+        "modified_date": "2018-10-02T13:28:07.557Z",
+        "owner": 6,
+        "owner_extra_info": {
+            "big_photo": null,
+            "full_name_display": "Vanesa Torres",
+            "gravatar_id": "b579f05d7d36f4588b11887093e4ce44",
+            "id": 6,
+            "is_active": true,
+            "photo": null,
+            "username": "user2114747470430251528"
+        },
+        "project": 1,
+        "project_extra_info": {
+            "id": 1,
+            "logo_small_url": null,
+            "name": "Project Example 0",
+            "slug": "project-0"
+        },
+        "ref": 114,
+        "status": 1,
+        "status_extra_info": {
+            "color": "#999999",
+            "is_closed": false,
+            "name": "Patch status name"
+        },
+        "subject": "EPIC 3",
+        "tags": [],
+        "team_requirement": false,
+        "total_voters": 0,
+        "total_watchers": 0,
+        "user_stories_counts": {
+            "progress": null,
+            "total": 0
+        },
+        "version": 1,
+        "watchers": []
+    },
+    {
+        "assigned_to": null,
+        "assigned_to_extra_info": null,
+        "attachments": [],
+        "blocked_note": "",
+        "client_requirement": false,
+        "color": "#75507b",
+        "created_date": "2018-10-02T15:38:07.312Z",
+        "epics_order": 1538494687294,
+        "id": 38,
+        "is_blocked": false,
+        "is_closed": false,
+        "is_voter": false,
+        "is_watcher": false,
+        "modified_date": "2018-10-02T15:38:07.320Z",
+        "owner": 6,
+        "owner_extra_info": {
+            "big_photo": null,
+            "full_name_display": "Vanesa Torres",
+            "gravatar_id": "b579f05d7d36f4588b11887093e4ce44",
+            "id": 6,
+            "is_active": true,
+            "photo": null,
+            "username": "user2114747470430251528"
+        },
+        "project": 1,
+        "project_extra_info": {
+            "id": 1,
+            "logo_small_url": null,
+            "name": "Project Example 0",
+            "slug": "project-0"
+        },
+        "ref": 126,
+        "status": 1,
+        "status_extra_info": {
+            "color": "#999999",
+            "is_closed": false,
+            "name": "Patch status name"
+        },
+        "subject": "New epic",
+        "tags": [],
+        "team_requirement": false,
+        "total_voters": 0,
+        "total_watchers": 0,
+        "user_stories_counts": {
+            "progress": null,
+            "total": 0
+        },
+        "version": 1,
+        "watchers": []
+    },
+    {
+        "assigned_to": null,
+        "assigned_to_extra_info": null,
+        "attachments": [],
+        "blocked_note": "",
+        "client_requirement": false,
+        "color": "#888a85",
+        "created_date": "2018-10-02T15:38:08.322Z",
+        "epics_order": 1538494688322,
+        "id": 39,
+        "is_blocked": false,
+        "is_closed": false,
+        "is_voter": false,
+        "is_watcher": false,
+        "modified_date": "2018-10-02T15:38:08.322Z",
+        "owner": 6,
+        "owner_extra_info": {
+            "big_photo": null,
+            "full_name_display": "Vanesa Torres",
+            "gravatar_id": "b579f05d7d36f4588b11887093e4ce44",
+            "id": 6,
+            "is_active": true,
+            "photo": null,
+            "username": "user2114747470430251528"
+        },
+        "project": 1,
+        "project_extra_info": {
+            "id": 1,
+            "logo_small_url": null,
+            "name": "Project Example 0",
+            "slug": "project-0"
+        },
+        "ref": 127,
+        "status": 1,
+        "status_extra_info": {
+            "color": "#999999",
+            "is_closed": false,
+            "name": "Patch status name"
+        },
+        "subject": "EPIC 1",
+        "tags": [],
+        "team_requirement": false,
+        "total_voters": 0,
+        "total_watchers": 0,
+        "user_stories_counts": {
+            "progress": null,
+            "total": 0
+        },
+        "version": 1,
+        "watchers": []
+    },
+    {
+        "assigned_to": null,
+        "assigned_to_extra_info": null,
+        "attachments": [],
+        "blocked_note": "",
+        "client_requirement": false,
+        "color": "#ad7fa8",
+        "created_date": "2018-10-02T15:38:08.322Z",
+        "epics_order": 1538494688322,
+        "id": 40,
+        "is_blocked": false,
+        "is_closed": false,
+        "is_voter": false,
+        "is_watcher": false,
+        "modified_date": "2018-10-02T15:38:08.441Z",
+        "owner": 6,
+        "owner_extra_info": {
+            "big_photo": null,
+            "full_name_display": "Vanesa Torres",
+            "gravatar_id": "b579f05d7d36f4588b11887093e4ce44",
+            "id": 6,
+            "is_active": true,
+            "photo": null,
+            "username": "user2114747470430251528"
+        },
+        "project": 1,
+        "project_extra_info": {
+            "id": 1,
+            "logo_small_url": null,
+            "name": "Project Example 0",
+            "slug": "project-0"
+        },
+        "ref": 128,
+        "status": 1,
+        "status_extra_info": {
+            "color": "#999999",
+            "is_closed": false,
+            "name": "Patch status name"
+        },
+        "subject": "EPIC 2",
+        "tags": [],
+        "team_requirement": false,
+        "total_voters": 0,
+        "total_watchers": 0,
+        "user_stories_counts": {
+            "progress": null,
+            "total": 0
+        },
+        "version": 1,
+        "watchers": []
+    },
+    {
+        "assigned_to": null,
+        "assigned_to_extra_info": null,
+        "attachments": [],
+        "blocked_note": "",
+        "client_requirement": false,
+        "color": "#8ae234",
+        "created_date": "2018-10-02T15:38:08.322Z",
+        "epics_order": 1538494688322,
+        "id": 41,
+        "is_blocked": false,
+        "is_closed": false,
+        "is_voter": false,
+        "is_watcher": false,
+        "modified_date": "2018-10-02T15:38:08.526Z",
+        "owner": 6,
+        "owner_extra_info": {
+            "big_photo": null,
+            "full_name_display": "Vanesa Torres",
+            "gravatar_id": "b579f05d7d36f4588b11887093e4ce44",
+            "id": 6,
+            "is_active": true,
+            "photo": null,
+            "username": "user2114747470430251528"
+        },
+        "project": 1,
+        "project_extra_info": {
+            "id": 1,
+            "logo_small_url": null,
+            "name": "Project Example 0",
+            "slug": "project-0"
+        },
+        "ref": 129,
+        "status": 1,
+        "status_extra_info": {
+            "color": "#999999",
+            "is_closed": false,
+            "name": "Patch status name"
+        },
+        "subject": "EPIC 3",
+        "tags": [],
+        "team_requirement": false,
+        "total_voters": 0,
+        "total_watchers": 0,
+        "user_stories_counts": {
+            "progress": null,
+            "total": 0
+        },
+        "version": 1,
+        "watchers": []
     }
 ]
 ----

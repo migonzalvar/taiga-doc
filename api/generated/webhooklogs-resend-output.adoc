@@ -1,9 +1,9 @@
 [source,json]
 ----
 {
-    "created": "2017-06-28T15:00:13.099Z",
-    "duration": 0,
-    "id": 2,
+    "created": "2018-10-02T15:54:56.369Z",
+    "duration": 0.059299,
+    "id": 6,
     "request_data": {
         "action": "test",
         "by": {
@@ -17,18 +17,22 @@
         "data": {
             "test": "test"
         },
-        "date": "2017-06-28T15:00:12.708Z",
+        "date": "2018-10-02T13:28:35.153Z",
         "type": "test"
     },
     "request_headers": {
         "Content-Length": "318",
         "Content-Type": "application/json",
-        "X-Hub-Signature": "sha1=8b3b6f4301db8931cd9b718785f7e1b9b7ee95c8",
-        "X-TAIGA-WEBHOOK-SIGNATURE": "8b3b6f4301db8931cd9b718785f7e1b9b7ee95c8"
+        "X-Hub-Signature": "sha1=87000eff6ab77b1d8fbf37e9cb6011fd28409734",
+        "X-TAIGA-WEBHOOK-SIGNATURE": "87000eff6ab77b1d8fbf37e9cb6011fd28409734"
     },
-    "response_data": "error-in-request: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))",
-    "response_headers": {},
-    "status": 0,
+    "response_data": "{\"content\": \"<!doctype html><title>Hello</title><h2>hello world</h2>\\n\"}",
+    "response_headers": {
+        "Content-Type": "text/html",
+        "Date": "Tue, 02 Oct 2018 15:54:56 GMT",
+        "Server": "SimpleHTTP/0.6 Python/3.6.6"
+    },
+    "status": 200,
     "url": "http://localhost:3000/htbin/test.py",
     "webhook": 1
 }

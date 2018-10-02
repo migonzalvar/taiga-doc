@@ -1,10 +1,8 @@
 [source,json]
 ----
 {
-    "color": "#AAAAAA",
-    "id": 25,
-    "name": "New priority",
-    "order": 8,
-    "project": 1
+    "name": [
+        "Name duplicated for the project"
+    ]
 }
 ----
